@@ -1,3 +1,4 @@
+//Commit to test SonarCloud
 package com.openclassrooms.testing.calcul.controller;
 
 import static org.assertj.core.api.Assertions.assertThat;
